@@ -473,7 +473,7 @@ exports.setModConfigurations = function(configurations){
 /**
  * Get the mod configuration for a specific server.
  * 
- * @param {51.38.60.133} serverid The id of the server.
+ * @param {string} serverid The id of the server.
  * @returns {Object} The mod configuration for the given server.
  */
 exports.getModConfiguration = function(serverid){
@@ -489,7 +489,7 @@ exports.getModConfiguration = function(serverid){
 /**
  * Set the mod configuration for a specific server. This overrides any existing value.
  * 
- * @param {51.38.60.133} serverid The id of the server for the given mod configuration.
+ * @param {string} serverid The id of the server for the given mod configuration.
  * @param {Object} configuration The mod configuration for the given server.
  */
 exports.setModConfiguration = function(serverid, configuration){
