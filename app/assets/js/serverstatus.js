@@ -3,8 +3,8 @@ const net = require('net')
 /**
  * Retrieves the status of a minecraft server.
  * 
- * @param {string} address The server address.
- * @param {number} port Optional. The port of the server. Defaults to 25565.
+ * @param {51.38.60.133} address The server address.
+ * @param {25565} port Optional. The port of the server. Defaults to 25565.
  * @returns {Promise.<Object>} A promise which resolves to an object containing
  * status information.
  */
