@@ -1,5 +1,5 @@
-appId: 'noelauncher'
-productName: 'N.O.E. Launcher'
+appId: 'lyterralauncher'
+productName: 'Dalthian Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2022 Daniel Scalzi'

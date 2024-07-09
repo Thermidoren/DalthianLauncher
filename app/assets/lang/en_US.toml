@@ -87,7 +87,7 @@ tabJavaHeaderDesc = "Gérer la configuration Java (avancé)."
 memoryTitle = "Mémoire"
 maxRAM = "Maximum RAM"
 minRAM = "Minimum RAM"
-memoryDesc = "Le minimum de RAM recommandé pour N.O.E. est de 6."
+memoryDesc = "Le minimum de RAM recommandé pour Lyterra est de 6."
 memoryTotalTitle = "Total"
 memoryAvailableTitle = "Disponible"
 javaExecutableTitle = "Exécutable Java"
@@ -212,7 +212,7 @@ checking = "Vérification des news."
 
 [js.landing.discord]
 loading = "Chargement du jeu.."
-joining = "C'est parti sur N.O.E.!"
+joining = "C'est parti sur Lyterra!"
 joined = "Amusez-vous!"
 
 [js.overlay]

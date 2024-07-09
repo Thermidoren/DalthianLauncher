@@ -1,8 +1,8 @@
 {
-  "name": "noelauncher",
+  "name": "DalthianLauncher",
   "version": "2.1.1",
-  "productName": "N.O.E.",
-  "description": "Ceci est le launcher de N.O.E.",
+  "productName": "Lyterra",
+  "description": "Ceci est le launcher de Lyterra",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) et Thermidoren",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Thermidoren/DalthianLauncher",

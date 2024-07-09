@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "N.O.E. Launcher"
+title = "Lyterra Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/Thermidoren/DalthianLauncher"
@@ -15,6 +15,6 @@ sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
 supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "Bienvenue sur le launcher de N.O.E.!"
-welcomeDescription = "C'est votre dernière sauvegarde!"
-welcomeDescCTA = "Initialisation des données de la simulation."
+welcomeHeader = "Bienvenue sur le launcher de Lyterra!"
+welcomeDescription = "Vous vous apprêtez à fouler la terre des dieux..."
+welcomeDescCTA = "Que la meilleure colonie l'emporte."
