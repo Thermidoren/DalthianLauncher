@@ -1,8 +1,8 @@
 {
-  "name": "DalthianLauncher",
+  "name": "dalthianlauncher",
   "version": "2.1.1",
-  "productName": "Lyterra",
-  "description": "Ceci est le launcher de Lyterra",
+  "productName": "Dalthian",
+  "description": "Ceci est le launcher de DalthianV2",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) et Thermidoren",
   "license": "UNLICENSED",
   "homepage": "https://github.com/Thermidoren/DalthianLauncher",

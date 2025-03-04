@@ -1,4 +1,4 @@
-appId: 'lyterralauncher'
+appId: 'dalthianlauncher'
 productName: 'Dalthian Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 

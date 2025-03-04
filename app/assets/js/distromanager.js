@@ -4,7 +4,7 @@ const ConfigManager = require('./configmanager')
 
 // Old WesterosCraft url.
 // exports.REMOTE_DISTRO_URL = 'http://mc.westeroscraft.com/WesterosCraftLauncher/distribution.json'
-exports.REMOTE_DISTRO_URL = 'http://dalthiv.cluster029.hosting.ovh.net/Lyterra.json'
+exports.REMOTE_DISTRO_URL = 'http://dalthiv.cluster029.hosting.ovh.net/DalthianV2.json'
 
 const api = new DistributionAPI(
     ConfigManager.getLauncherDirectory(),
